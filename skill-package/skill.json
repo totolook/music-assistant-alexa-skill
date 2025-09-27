@@ -26,6 +26,15 @@
           "keywords": [],
           "name": "Audioplayer sample",
           "summary": "Sample Short Description"
+        },
+        "it-IT": {
+          "description": "Skill di esempio che utilizza l'interfaccia AudioPlayer",
+          "examplePhrases": [
+            "Alexa apri il lettore"
+          ],
+          "keywords": [],
+          "name": "Audioplayer sample",
+          "summary": "Sample Short Description"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
